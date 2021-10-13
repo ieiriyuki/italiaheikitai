@@ -1,6 +1,9 @@
 html {
     font-family: sans-serif;
     background-color: #fcfffc;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
   }
 
   table {
